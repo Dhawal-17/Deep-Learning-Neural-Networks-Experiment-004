@@ -1,0 +1,8 @@
+Libraries Required :-
+
+TensorFlow
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
